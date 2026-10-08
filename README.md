@@ -43,11 +43,11 @@ Struktur file pada praktikum ini adalah sebagai berikut:
 
 Langkah pertama adalah membuat dokumen HTML dasar dengan nama lab2_css_dasar.html. Dokumen ini menggunakan struktur HTML5 yang berisi elemen-elemen seperti header, <nav>, dan <div> untuk menyusun kerangka halaman web.
 
-<img width="1210" height="252" alt="Image" src="https://github.com/user-attachments/assets/7d00b4aa-3922-4f6b-b221-7641390bc23d" />
+<img width="1197" height="766" alt="Image" src="https://github.com/user-attachments/assets/88bc965d-a3fb-467d-8986-5cd2292c1be4" />
 
 Selanjutnya buka pada brwoser untuk melihat hasilnya.
 
-<img width="1197" height="766" alt="Image" src="https://github.com/user-attachments/assets/88bc965d-a3fb-467d-8986-5cd2292c1be4" />
+<img width="1210" height="252" alt="Image" src="https://github.com/user-attachments/assets/7d00b4aa-3922-4f6b-b221-7641390bc23d" />
 
 ### 2. Mendeklarasikan CSS Internal
 
