@@ -98,3 +98,5 @@ Class Selector (.): Digunakan untuk mengelompokkan beberapa elemen (contoh: .but
 Selanjutnya simpan perubahan yang ada, dan lakukan refresh pada browser untuk melihat hasilnya.
 
 <img width="1907" height="722" alt="Image" src="https://github.com/user-attachments/assets/934bc4a4-637d-4541-9919-f8111442e2f9" />
+
+dan kita telah menyelesainkan tugas yang telah di berikan pada modul
